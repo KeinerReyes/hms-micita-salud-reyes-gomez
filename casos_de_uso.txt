@@ -1,0 +1,1 @@
+Casos de uso principales: CU-04 Solicitar cita y CU-08 Registrar evolución
